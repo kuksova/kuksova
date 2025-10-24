@@ -14,13 +14,14 @@ I hold Bachelor’s and Master’s degrees in Applied Mathematics from the Natio
 + Data Scientist Intern, AI Startup Sense Machine (Feb 2023– May 2023)
   Contributed to an emotional response analysis AI startup,focusing on eye-blink recognition in webcam-quality video.
 
-🧠 **Selected Projects**  
+🧠 **Selected Projects** 
 + *Text-in-Image Search* – built an intelligent visual search engine for images containing text.  
 + *Personalized Recommender System* – developed a recommendation model for e-commerce datasets.  
 
 📚 **Learning & Interests**  
-+ Currently reading Statistical Thinking for Programmers.  
-+ Taking the Google Analytics course.
++ Currently reading Statistical Thinking for Programmers.
++ Do personal projects to strengthen my skills in Exploratory Data Analysis, Feature Engineering, Modeling, Evaluation, Hypothesis Testing, Business Metrics, and A/B Testing.
+  
 Outside of tech: photography, skiing, and old Hollywood movies 🎞️
 
 🤝 **Let’s Connect**  
