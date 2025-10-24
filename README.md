@@ -23,6 +23,6 @@ I hold Bachelor’s and Master’s degrees in Applied Mathematics from the Natio
 + Taking the Google Analytics course.
 Outside of tech: photography, skiing, and old Hollywood movies 🎞️
 
-🤝 **Let’s Connect**
+🤝 **Let’s Connect**  
 I’m currently seeking Data Scientist roles and open to new challenges.
 Feel free to reach out or check out my projects!
