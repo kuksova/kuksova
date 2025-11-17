@@ -11,7 +11,7 @@ I hold Bachelor’s and Master’s degrees in Applied Mathematics from the Natio
   Worked on fingerprint matching and image processing algorithms for real-time civilian identification systems.  
 + Researcher, Los Alamos National Laboratory (2018–2020)  
   Collaborated under Boian Alexandrov on an innovative tensor decomposition approach — a truly formative experience.
-+ Data Scientist Intern, AI Startup Sense Machine (Feb 2023– May 2023)
++ Data Scientist (contract), AI Startup Sense Machine (Feb 2023– May 2023)
   Contributed to an emotional response analysis AI startup,focusing on eye-blink recognition in webcam-quality video.
 
 🧠 **Selected Projects** 
